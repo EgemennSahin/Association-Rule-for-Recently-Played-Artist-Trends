@@ -1,4 +1,4 @@
-# SpotifySongAnalysis
+# Spotify Recently Played Song Analysis
 Analysing user's recently played songs and building connections between the songs
 
 Contact: egemen.sahin.23@dartmouth.edu
@@ -29,3 +29,7 @@ Contact: egemen.sahin.23@dartmouth.edu
     | Rows | Artist, Next Artist |
     | Column | SUM(Transitions) |
 3. Change into a treemap to visualize the data as it is efficient for grouping the transitions between artists by artist
+
+#
+
+If you have any questions, please feel free to e-mail me.
