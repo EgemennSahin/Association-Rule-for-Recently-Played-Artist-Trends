@@ -1,5 +1,5 @@
 # Spotify Recently Played Song Analysis
-Analysing user's recently played songs and building connections between the songs.
+Analysing user's recently played songs' artists and building connections between the artists.
 
 All necessary information is in the Jupyter Notebook.
 
