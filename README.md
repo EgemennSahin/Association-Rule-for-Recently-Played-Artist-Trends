@@ -1,4 +1,4 @@
-# Spotify Recently Played Song Analysis
+# Finding trends in recently played artists on Spotify using the Association Rule
 Analysing user's recently played songs' artists and building connections between the artists.
 
 All necessary information is in the Jupyter Notebook.
